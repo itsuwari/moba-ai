@@ -1,8 +1,3 @@
--------------------------------------------------------------------------------
---- AUTHOR: Nostrademous, iSarCasm
---- GITHUB REPO: https://github.com/Nostrademous/Dota2-WebAI
--------------------------------------------------------------------------------
-
 local MapHelper   = require(GetScriptDirectory().."/helper/map_helper")
 local UnitHelper  = require(GetScriptDirectory().."/helper/unit_helper")
 

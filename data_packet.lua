@@ -1,8 +1,3 @@
--------------------------------------------------------------------------------
---- AUTHOR: Nostrademous
---- GITHUB REPO: https://github.com/Nostrademous/Dota2-WebAI
--------------------------------------------------------------------------------
-
 local dbg = require( GetScriptDirectory().."/debug" )
 
 local DataPacket = {}

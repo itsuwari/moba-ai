@@ -1,8 +1,3 @@
--------------------------------------------------------------------------------
---- AUTHOR: Nostrademous
---- GITHUB REPO: https://github.com/Nostrademous/Dota2-WebAI
--------------------------------------------------------------------------------
-
 local dt = require( GetScriptDirectory().."/decision" )
 local inv = require( GetScriptDirectory().."/helper/inventory_helper" )
 local heroes = require(GetScriptDirectory().."/heroes/_heroes")

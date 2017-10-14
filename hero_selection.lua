@@ -1,8 +1,3 @@
--------------------------------------------------------------------------------
---- AUTHOR: Nostrademous
---- GITHUB REPO: https://github.com/Nostrademous/Dota2-WebAI
--------------------------------------------------------------------------------
-
 function InTable (tab, val)
     if not tab then return false end
     for index, value in ipairs (tab) do
