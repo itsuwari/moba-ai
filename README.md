@@ -3,13 +3,13 @@ MOBA-Kit is a framework inspired by OpenAI.
 The visual core recognizes and converts mobile MOBA games human-interface to OpenAI style API, which allows everyone build amazing bots.
 
 ## NOTICE 
-This project IS NOT coming with ANY DATA PRESET.   </br>
+This project DOES NOT come with ANY DATA PRESET.   </br>
 Remeber that there is NO warranty. You break it, you fix it.  
 
 ## Requirements 
-1. A simulator to run game.
+1. A simulator to run a MOBA game.
 2. Python3, Pypy, LUA, PHP(Web).
-3. You must train the recognition model by your self, this framework DOES NOT come with ANY preset.
+3. You must train the recognition model yourself, this framework DOES NOT come with ANY preset.
 
 ## Limitation 
 1. Extremely slow on any NVDIA platform.
